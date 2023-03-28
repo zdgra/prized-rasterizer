@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\VS2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (configuring SDL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  display.c
+  main.c
+C:\Users\User\Documents\pikuma - 3D graphics\rasterizer\rasterizer\main.c(133,22): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\Documents\pikuma - 3D graphics\rasterizer\rasterizer\main.c(134,22): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+  vector.c
+  Generating Code...
+  configuring SDL.vcxproj -> C:\Users\User\Documents\pikuma - 3D graphics\rasterizer\x64\Debug\rasterizer.exe
